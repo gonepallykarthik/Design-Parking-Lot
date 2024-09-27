@@ -1,0 +1,41 @@
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# IntelliJ IDEA project files
+out/
+target/
+*.class
+
+### Java ###
+*.jar
+*.war
+*.ear
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+### Maven ###
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+### Gradle ###
+.gradle/
+/build/
+
+# IDE config files
+.vscode/
+*.env
+
+# OS specific
+.DS_Store
+Thumbs.db
